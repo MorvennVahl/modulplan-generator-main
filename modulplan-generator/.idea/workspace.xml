@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d6395e4-4964-416c-856f-f9c99a31ec81" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MorvennVahl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MorvennVahl/Stylegreen.git&quot;,
+    &quot;accountId&quot;: &quot;9addfb08-9528-4de6-bb5c-f8300ef355e7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rZg6oDZ0r7Jvr8BUuhqo6MjmUm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Javascript_chrome.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "Node.js.EdgeText.js.executor": "Run",
+    "Node.js.HTMLAugmentation.js.executor": "Debug",
+    "Node.js.InfoBoxText.js.executor": "Debug",
+    "Node.js.PlanForm.js.executor": "Debug",
+    "Node.js.Unnamed.executor": "Run",
+    "Node.js.moduleCalculations.js.executor": "Debug",
+    "Node.js.stylegreen_scripts.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/aleks/Desktop/Alex Daten Arbeit/modulplan-generator",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/aleks/AppData/Roaming/JetBrains/IntelliJIdea2024.3/node/versions/22.14.0/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "debugger.dataViews.javascript",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\Desktop\modulplan-generator\535b93027c24308d27d48041de03e3acc279dafd\js" />
+      <recent name="C:\Users\alexa\Desktop\modulplan-generator" />
+      <recent name="C:\Users\alexa\Desktop\modulplan-generator\535b93027c24308d27d48041de03e3acc279dafd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Javascript_chrome">
+    <configuration name="Javascript_chrome" type="JavascriptDebugType" uri="http://localhost:63342/modulplan-generator/modulplan-generator-main-20240917T084749Z-001/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Javascript_chrome" />
+      <item itemvalue="Node.js.Unnamed" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6395e4-4964-416c-856f-f9c99a31ec81" name="Changes" comment="" />
+      <created>1736771838783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736771838783</updated>
+      <workItem from="1736771839821" duration="1705000" />
+      <workItem from="1736774081433" duration="13093000" />
+      <workItem from="1736855544880" duration="2191000" />
+      <workItem from="1740562501996" duration="57557000" />
+      <workItem from="1740997568916" duration="88773000" />
+      <workItem from="1741711771137" duration="45939000" />
+      <workItem from="1742300000223" duration="63344000" />
+      <workItem from="1743074770206" duration="17663000" />
+      <workItem from="1743099048785" duration="16250000" />
+      <workItem from="1743163239064" duration="10687000" />
+      <workItem from="1743637477733" duration="9076000" />
+      <workItem from="1744047418863" duration="37151000" />
+      <workItem from="1744368099407" duration="24869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

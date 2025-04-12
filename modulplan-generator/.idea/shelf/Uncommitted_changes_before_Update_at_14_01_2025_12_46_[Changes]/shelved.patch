@@ -1,0 +1,362 @@
+Index: Hosting informationen.txt
+===================================================================
+diff --git a/Hosting informationen.txt b/Hosting informationen.txt
+deleted file mode 100644
+--- a/Hosting informationen.txt	(revision 510676d320c1d1628b05ce548a3af37edf17f113)
++++ /dev/null	(revision 510676d320c1d1628b05ce548a3af37edf17f113)
+@@ -1,14 +0,0 @@
+-modul.stylegreen.de
+-
+-Provider Domain
+-creoline.com
+-
+-Provider Country 
+-Germany
+-Provider ASN 
+-205948
+-
+-Is EU Provider
+-EU-based
+-IP Address 
+-5.1.77.173
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/encodings.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/encodings.xml b/modulplan-generator-main/.idea/encodings.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/encodings.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/modules.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/modules.xml b/modulplan-generator-main/.idea/modules.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/modules.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/modulplan-generator-main.iml" filepath="$PROJECT_DIR$/.idea/modulplan-generator-main.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/.gitignore
+===================================================================
+diff --git a/modulplan-generator-main/.idea/.gitignore b/modulplan-generator-main/.idea/.gitignore
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/.gitignore	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/indexLayout.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/indexLayout.xml b/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/indexLayout.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/indexLayout.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="UserContentModel">
+-    <attachedFolders />
+-    <explicitIncludes />
+-    <explicitExcludes />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/vcs.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/vcs.xml b/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/vcs.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/vcs.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/vcs.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/vcs.xml b/modulplan-generator-main/.idea/vcs.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/vcs.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/js" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/workspace.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/workspace.xml b/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/workspace.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/workspace.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,45 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="55e7de81-3550-4cb9-b377-513ba27e32e3" name="Changes" comment="" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 2
+-}</component>
+-  <component name="ProjectId" id="2kcYpzZAkwXDEkVfDzxueQegGAk" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "nodejs_package_manager_path": "npm",
+-    "vue.rearranger.settings.migration": "true"
+-  }
+-}]]></component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="55e7de81-3550-4cb9-b377-513ba27e32e3" name="Changes" comment="" />
+-      <created>1723584519828</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1723584519828</updated>
+-      <workItem from="1723584522707" duration="5000" />
+-      <workItem from="1723584540213" duration="6000" />
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+-  <component name="VcsManagerConfiguration">
+-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/misc.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/misc.xml b/modulplan-generator-main/.idea/misc.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/misc.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/encodings.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/encodings.xml b/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/encodings.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/encodings.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+-</project>
+\ No newline at end of file
+Index: modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/projectSettingsUpdater.xml
+===================================================================
+diff --git a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/projectSettingsUpdater.xml b/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/projectSettingsUpdater.xml
+deleted file mode 100644
+--- a/modulplan-generator-main/.idea/.idea.modulplan-generator-main.dir/.idea/projectSettingsUpdater.xml	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
++++ /dev/null	(revision 9240c47514767c11d3601ee0ccd43d4dd0621e9c)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="RiderProjectSettingsUpdater">
+-    <option name="vcsConfiguration" value="2" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+new file mode 100644
+--- /dev/null	(date 1736855051169)
++++ b/index.html	(date 1736855051169)
+@@ -0,0 +1,146 @@
++<!DOCTYPE html>
++<html xmlns="http://www.w3.org/1999/xhtml">
++<head>
++  <title>Password Protected</title>
++
++  <meta name="viewport" content="width=device-width, initial-scale=1.0">
++  <meta name="robots" content="noindex, nofollow">
++
++  <style>
++    *,
++    *:after,
++    *:before {
++      box-sizing: border-box;
++    }
++    body,
++    html {
++      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
++      font-weight: 300;
++      font-size: 16px;
++      background: #f2f2f2;
++      color: #2D3737;
++      display: flex;
++      align-items: center;
++      justify-content: center;
++      min-height: 100%;
++    }
++
++    .protected {
++      background: #fff;
++      -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1);
++      box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1);
++      border-radius: 3px;
++      min-width: 500px;
++
++    }
++    .protected__content {
++      padding: 24px 28px;
++    }
++    .protected__content__heading {
++      font-size: 16px;
++      font-weight: 500;
++      margin: 0 0 12px;
++      line-height: 1;
++    }
++    .protected__alert {
++      display: none;
++      border-bottom: 1px solid transparent;
++      border-radius: 3px 3px 0 0;
++      padding: 12px 14px;
++      color: #a94442;
++      background-color: #f2dede;
++      border-color: #ebccd1;
++    }
++    .protected__content__input {
++      display: block;
++      border: solid 1px #ccc;
++      padding: 12px 14px;
++      -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1);
++      box-shadow: 0 2px 3px 0 rgba(0,0,0,0.1);
++      font-size: 16px;
++      width: 100%;
++      border-radius: 3px;
++
++      margin-bottom: 12px;
++    }
++    .protected__content__input:focus {
++      outline: none;
++      border-color: #228843;
++    }
++    .protected__content__btn {
++      background-color: #228843;
++      border-radius: 3px;
++      cursor: pointer;
++      border: none;
++      color: #fff;
++      padding: 12px 14px;
++      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
++      font-weight: 500;
++      font-size: 16px;
++
++    }
++    .protected__content__btn:hover {
++      background-color: #1C6D36;
++    }
++
++  </style>
++
++</head>
++
++<body>
++
++<div class="protected">
++  <div class="protected__alert" data-id="alert">You entered the wrong password</div>
++  <div class="protected__content">
++    <h1 class="protected__content__heading">You need a password to continue</h1>
++    <input class="protected__content__input" data-id="password" type="password" placeholder="password"/>
++    <button data-id="button" type="button" class="protected__content__btn">Continue</button>
++  </div>
++</div>
++
++<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
++<script type="text/javascript">
++  "use strict"
++  let button = document.querySelectorAll('[data-id="button"]')
++  let password = document.querySelectorAll('[data-id="password"]')
++
++  function login(secret) {
++    let hash = sha1(secret)
++    let url = hash + "/index.html"
++    let alert = document.querySelectorAll('[data-id="alert"]')
++
++    let request = new XMLHttpRequest()
++    request.open('GET', url, true)
++
++    request.onload = function () {
++      if (request.status >= 200 && request.status < 400) {
++        window.location = url
++      } else {
++        parent.location.hash = hash
++        alert[0].style.display = 'block'
++        password[0].setAttribute('placeholder', 'Incorrect password')
++        password[0].value = ''
++      }
++    }
++    request.onerror = function () {
++      parent.location.hash = hash
++      alert[0].style.display = 'block'
++      password[0].setAttribute('placeholder', 'Incorrect password')
++      password[0].value = ''
++    }
++    request.send()
++  }
++
++  button[0].addEventListener("click", function () {
++    login(password[0].value)
++  })
++
++  document.onkeydown = function (e) {
++    e = e || window.event
++    if (e.keyCode === 13) {
++      login(password[0].value)
++    }
++  }
++</script>
++</body>
++</html>
+\ No newline at end of file
+diff --git a/modulplan-generator-main/README.md b/modulplan-generator-main/README.md
+deleted file mode 100644
