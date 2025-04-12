@@ -1,0 +1,23 @@
+{
+  "name": "pptxgenjs-module",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "/stylegreen_scripts.js"
+  },
+  "keywords": [
+    "pptx",
+    "presentation",
+    "generator",
+    "pptxgenjs"
+  ],
+  "author": "Alexander Kaistra",
+  "license": "ISC",
+  "dependencies": {
+    "cloudmersive-convert-api-client": "^2.8.0",
+    "cors": "^2.8.5",
+    "libreoffice-convert": "^1.6.0",
+    "pptxgenjs": "^3.12.0"
+  }
+}
