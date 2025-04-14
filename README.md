@@ -11,3 +11,6 @@ Run Code.:
 
 Erweiterung npm -> npx
 - cmd-line: npx serve . (öffnet Browser Seite)
+
+
+Da der Code eine PowerPoint Datei generiert, wird PowerPoint benötigt.
